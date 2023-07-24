@@ -1,0 +1,15 @@
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.deps.json
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.runtimeconfig.json
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.dll
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/bin/Debug/net7.0/PrimeiroProjeto.pdb
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.csproj.AssemblyReference.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.AssemblyInfo.cs
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.dll
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/refint/PrimeiroProjeto.dll
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.pdb
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/PrimeiroProjeto.genruntimeconfig.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/Debug/net7.0/ref/PrimeiroProjeto.dll
