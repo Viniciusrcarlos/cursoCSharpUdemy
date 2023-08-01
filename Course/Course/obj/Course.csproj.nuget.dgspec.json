@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/PrimeiroProjeto.csproj": {}
+    "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/Course.csproj": {}
   },
   "projects": {
-    "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/PrimeiroProjeto.csproj": {
+    "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/PrimeiroProjeto.csproj",
-        "projectName": "PrimeiroProjeto",
-        "projectPath": "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/PrimeiroProjeto.csproj",
+        "projectUniqueName": "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/Course.csproj",
+        "projectName": "Course",
+        "projectPath": "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/Course.csproj",
         "packagesPath": "/Users/viniciusraupp/.nuget/packages/",
-        "outputPath": "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/PrimeiroProjeto/PrimeiroProjeto/obj/",
+        "outputPath": "/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/viniciusraupp/.nuget/NuGet/NuGet.Config"

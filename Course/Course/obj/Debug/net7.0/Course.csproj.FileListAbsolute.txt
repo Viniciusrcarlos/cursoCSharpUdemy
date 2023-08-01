@@ -1,0 +1,15 @@
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/bin/Debug/net7.0/Course
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/bin/Debug/net7.0/Course.deps.json
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/bin/Debug/net7.0/Course.runtimeconfig.json
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/bin/Debug/net7.0/Course.dll
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/bin/Debug/net7.0/Course.pdb
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.csproj.AssemblyReference.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.AssemblyInfoInputs.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.AssemblyInfo.cs
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.csproj.CoreCompileInputs.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.dll
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/refint/Course.dll
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.pdb
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/Course.genruntimeconfig.cache
+/Users/viniciusraupp/Documents/GitHub/cursoCSharpUdemy/Course/Course/obj/Debug/net7.0/ref/Course.dll
